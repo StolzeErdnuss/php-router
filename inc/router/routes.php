@@ -4,4 +4,4 @@
 $a = new mainRouter();
   $a->route("form","form.html");
   $a->route("form/post","post.php");
-  $a->routeWrite("test","This is a test routeWrite!");
+  $a->routeWrite("test","This is a test routeWrite!1");
